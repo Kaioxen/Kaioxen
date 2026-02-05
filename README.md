@@ -1,16 +1,62 @@
-## Hi there 👋
+# Halo, gua Wildan (Kaioxen)
 
-<!--
-**Kaioxen/Kaioxen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> chill, ini cuma chaos
 
-Here are some ideas to get you started:
+Minat utama di **Linux**, **Android (kernel/ROM)**, dan **backend**.  
+Low profile, still learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tentang Gua
+- 🐧 Ngoprek **Linux** (Alpine, Ubuntu)
+- 📱 Pernah ngerjain **custom ROM & kernel Android**
+- ⚙️ Lebih sering main di **system-level**
+- 📚 Lagi fokus **belajar & memperdalam C**
+- ➖ **C++ jarang dipake**
+- 📲 Ngoding pake **HP (Termux / Chroot / root)**
+- 🎧 Not really into **Eminem music**
+
+---
+
+## Tech Stack
+
+### Bahasa
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+### Tools & Sistem
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![BusyBox](https://img.shields.io/badge/BusyBox-000000?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=flat)
+
+---
+
+## Repo
+Repo di sini kebanyakan isinya:
+- latihan
+- eksperimen
+- belajar dari error
+- kernel & low-level
+- project kecil buat nambah paham
+
+---
+
+## Statistik GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=Kaioxen&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaioxen&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## Link
+- GitHub: https://github.com/Kaioxen
+
+---
+
+still learning, still moving.
