@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Kaioxen Banner">
+</p>
+
 # Halo, gua Wildan (Kaioxen)
 
 > chill, ini cuma chaos
 
 Minat utama di **Linux**, **Android (kernel/ROM)**, dan **backend**.  
-Low profile, still learning.
+Low profile, masih belajar, masih ngulik.
 
 ---
 
@@ -44,6 +48,15 @@ Repo di sini kebanyakan isinya:
 - belajar dari error
 - kernel & low-level
 - project kecil buat nambah paham
+- dokumentasi kecil hasil ngulik
+
+Ga semua rapi, tapi semua ada prosesnya.
+
+---
+
+## Catatan
+Repo ini dibuat buat **belajar, nyoba, dan ngerusak lalu benerin lagi**.  
+Kalau ada yang aneh, kemungkinan itu bagian dari proses.
 
 ---
 
@@ -53,3 +66,4 @@ Repo di sini kebanyakan isinya:
 ---
 
 still learning, still moving.
+
