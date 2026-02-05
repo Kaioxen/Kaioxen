@@ -47,8 +47,6 @@ Repo di sini kebanyakan isinya:
 
 ---
 
----
-
 ## Link
 - GitHub: https://github.com/Kaioxen
 
