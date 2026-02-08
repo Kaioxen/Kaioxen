@@ -67,4 +67,8 @@ Kebanyakan isi repo di sini adalah coretan proses:
   <img src="https://nirzak-streak-stats.vercel.app/?user=Kaioxen&theme=one_dark_pro&hide_border=false" alt="Streak" />
   <br>
   <i>still learning, still moving.</i>
+  <br><br>
+  <a href="https://gprm.itsvg.in/">
+    <img src="https://img.shields.io/badge/Generated%20with-GPRM-blue?style=flat-square" alt="Generated with GPRM">
+  </a>
 </p>
