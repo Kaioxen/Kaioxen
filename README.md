@@ -4,7 +4,7 @@
   <img src="assets/banner.png" alt="Kaioxen Banner" width="100%">
 </p>
 
-# Halo, gua Wildan (Kaioxen)
+# Halo, gua Wildan Hermawan (Kaioxen)
 
 > *"chill, ini cuma chaos"*
 
