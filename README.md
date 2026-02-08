@@ -55,18 +55,10 @@ Kebanyakan isi repo di sini adalah coretan proses:
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaioxen&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaioxen&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Languages" height="150" />
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kaioxen&theme=one_dark_pro&hide_border=false" alt="Streak" />
-</p>
-
----
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaioxen.visitor-badge" alt="visitor badge">
+  <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kaioxen&theme=one_dark_pro&hide_border=false" alt="Streak" />
   <br>
   <i>still learning, still moving.</i>
 </p>
