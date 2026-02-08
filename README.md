@@ -4,7 +4,7 @@
   <img src="assets/banner.png" alt="Kaioxen Banner" width="100%">
 </p>
 
-# Halo, gua Wildan Hermawan (Kaioxen)
+# Halo, gua Wildan (Kaioxen)
 
 > *"chill, ini cuma chaos"*
 
@@ -14,18 +14,11 @@ Low profile, masih belajar, masih ngulik.
 ---
 
 ### 🐧 Tentang Gua
-* **Ngoprek:** Fokus di Linux (Alpine, Ubuntu).
-* **Mobile:** Pengalaman di *Custom ROM* & *Kernel Android*.
-* **System Level:** Lebih sering main di bawah kap mesin daripada di tampilan.
-* **Current Stack:** Lagi memperdalam **C** (pake HP via Termux/Chroot).
-* **Note:** C++ jarang disentuh, dan bukan pendengar Eminem.
-
-### 🛠️ Cara Gua Belajar
-1. **Trial:** Langsung nyoba.
-2. **Error:** Pasti ketemu macet.
-3. **Break:** Ngerusak dikit biar tau batasnya.
-4. **Read:** Baca ulang dokumentasi.
-5. **Fix:** Benerin pelan-pelan sampe paham akarnya.
+* **Environment:** Bare metal enthusiast, main di Linux (Alpine, Ubuntu).
+* **Core:** Ngoprek Android di level kernel & ROM optimization.
+* **Architecture:** System-level minded, lebih nyaman di backend & shell environment.
+* **Stack:** Lagi deep-dive ke **C** (pake Termux/Chroot environment).
+* **Instruction Set:** C++ is deprecated for me, and I don't stream Eminem.
 
 ---
 
